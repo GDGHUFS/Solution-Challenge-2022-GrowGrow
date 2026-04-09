@@ -59,7 +59,7 @@ The trees planted so far can be found on this menu. The "tree" picture represent
 
 
 ## Contributors 👩‍💻👨‍💻
-<a href="https://github.com/Kangsoyeong"><img src="https://img.shields.io/badge/Kang Soyeong-black?style=social-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/yourseong"><img src="https://img.shields.io/badge/Chae Yuseong-black?style=social-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/z5zH0"><img src="https://img.shields.io/badge/Kim Yejin-black?style=social-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/park-hyunbin"><img src="https://img.shields.io/badge/Park Hyunbin-black?style=social-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/ShinHyeongcheol"><img src="https://img.shields.io/badge/Shin Hyeongcheol-black?style=social-square&logo=github&logoColor=white"/></a>
